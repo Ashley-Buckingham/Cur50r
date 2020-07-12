@@ -1,4 +1,5 @@
-![](https://github.com/Cur50r/Cur50r/raw/master/ezgif.com-video-to-gif.gif)
+<!-- ![](./mygif.gif) -->
+<img src="./mygif.gif" width="100">
 
 [Contact](https://ashleybuckingham.co.uk)
 

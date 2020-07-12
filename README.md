@@ -1,5 +1,10 @@
-<!-- ![](./mygif.gif) -->
-<img src="https://github.com/Cur50r/Cur50r/raw/master/ezgif.com-video-to-gif.gif" width="100">
+<!-- ![](https://github.com/Cur50r/Cur50r/raw/master/ezgif.com-video-to-gif.gif) -->
+
+<!-- <img src="https://github.com/Cur50r/Cur50r/raw/master/ezgif.com-video-to-gif.gif" width="100"> -->
+
+<p align="center">
+  <img src="https://github.com/Cur50r/Cur50r/raw/master/mygif.gif">
+</p>
 
 [Contact](https://ashleybuckingham.co.uk)
 

@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://github.com/Cur50r/Cur50r/raw/master/ezgif.com-video-to-gif.gif)
+
+[Contact](https://ashleybuckingham.co.uk)
 
 <!--
 **Cur50r/Cur50r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
